@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b18d5a96c1c3934a8b8a02c513d37b1, type: 3}
+  m_Name: Makedonya 14
+  m_EditorClassIdentifier: 
+  questionText: 'In Macedonia grape Which fruit is better than wine in the making
+    used ? '
+  optionA: Apple
+  optionB: 'Cherry '
+  optionC: Pomegranate
+  optionD: Plum
+  correctAnswer: 3
